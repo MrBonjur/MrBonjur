@@ -6,7 +6,7 @@
 
 ### Для связи со мной используйте Telegram
 
-<code><a href="https://t.me/mrbonjur"><img height="32" width="32" src="https://github.com/MrBonjur/me/raw/main/icons/Telegram.png"></a></code> 
+<code><a href="https://t.me/mrbonjur"><img height="32" width="32" src="https://github.com/MrBonjur/MrBonjur/raw/main/icons/Telegram.png"></a></code> 
 
 ### Языки и инструменты
 
