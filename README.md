@@ -1,5 +1,5 @@
 ### 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=printf("Hello,+i'm+MrBonjur"))](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=print("Hello,+i'm+MrBonjur"))](https://git.io/typing-svg)
 
 Пишу интересные для меня штучки, потратил  [![wakatime](https://wakatime.com/badge/user/4bde2f0f-a012-4a5c-9841-23a025273b88.svg)](https://wakatime.com/@4bde2f0f-a012-4a5c-9841-23a025273b88)  за последие 7 дней
 
